@@ -1,8 +1,8 @@
-
-import React, { Component } from 'react';
+/* eslint-disable  class-methods-use-this */
+import { Component } from 'react';
 
 export default class DataInfo extends Component {
-  render () {
+  render() {
     return (
       <ol>
         <li>Block advertising trackers.</li>

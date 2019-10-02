@@ -1,6 +1,7 @@
+/* eslint-disable no-unused-vars */
 import { Component } from 'react';
 import './App.css';
-import ScrollButton from './ScrollButton.jsx';
+import ScrollButton from './ScrollButton/index.jsx';
 import Background from './Background.jsx';
 import Input from './input.jsx';
 import Slide from './Slide.jsx';
